@@ -47,6 +47,7 @@ Boyarsky&Selikoff – считаю это своим достижением.
 Стек: `Java SE8`, `Oracle SQL`, `jQuery, ES2015`, `Bootstrap CSS`
 
 ## Навыки
+
 |              |          |                   |
 |:------------:|:--------:|:-----------------:|
 | `React.js`   | `Vite`   | `Java`            |
