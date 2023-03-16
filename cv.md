@@ -5,7 +5,7 @@
 * Discord: maxvy50rs
 * E-mail: maxvy50@gmail.com
 * [Telegram: maxvy50](t.me/maxvy50)
-* [Github: maxvy50](github.com/maxvy50)
+* [Github: maxvy50rs](github.com/maxvy50rs)
 
 ## Обо мне
 Начинающий frontend-разработчик (self-educated), с небольшим опытом в backend и
@@ -34,33 +34,25 @@ Freelance, разработка/сопровождение, 2022
 Занимался разработкой и сопровождением Telegram-бота для закрытой
 группы людей. Функционал бота – определение срочности реагирования и
 рассылка оповещений при некоторых событиях на бирже Binance.
-```
-NodeJS 16.8
-node-telegram-
-bot-api
-Coinglass API
-```
+
+Стек: `NodeJS 16.8`, `node-telegram-bot-api`, `Coinglass API`
+
 
 ex-DartIT, младший fullstack-разработчик, 2018
 Проходил стажировку в отделе, занимавшемся разработкой ERP-системы
 для телеком-компании – после обучения занимался рефакторингом legacy
 кода и фиксил баги. За месяц освоил Java по книге OCP Guide by
 Boyarsky&Selikoff – считаю это своим достижением.
-```
-Java SE8
-Oracle SQL
-jQuery,ES2015
-Bootstrap CSS
-```
+
+Стек: `Java SE8`, `Oracle SQL`, `jQuery, ES2015`, `Bootstrap CSS`
 
 ## Навыки
-|                 |                 |                  |
-|:---------------:|:---------------:|:----------------:|
-|  `React.js`     |    `Vite`       |    `Java`        |
-|  `JavaScript`   |    `REST`       | `MySQL, Postgres`|
-|  `TypeScript`   |    `OOP`        | `Python`         |
-|  `HTML/CSS`     |    `Git`        | `Linux`          |
-
+|              |          |                   |
+|:------------:|:--------:|:-----------------:|
+| `React.js`   | `Vite`   | `Java`            |
+| `JavaScript` | `REST`   | `MySQL, Postgres` |
+| `TypeScript` | `OOP`    | `Python`          |
+| `HTML/CSS`   | `Git`    | `Linux`           |
 
 ## Дополнительно
 * English level – B1
