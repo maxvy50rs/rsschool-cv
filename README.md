@@ -1,0 +1,1 @@
+https://maxvy50rs.github.io/rsschool-cv/
