@@ -48,7 +48,7 @@ Boyarsky&Selikoff – считаю это своим достижением.
 
 ## Навыки
 
-|              |          |                   |
+|  front       |  aux     | back              |
 |:------------:|:--------:|:-----------------:|
 | `React.js`   | `Vite`   | `Java`            |
 | `JavaScript` | `REST`   | `MySQL, Postgres` |
